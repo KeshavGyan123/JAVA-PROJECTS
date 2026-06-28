@@ -1,0 +1,4 @@
+Laptop 2,30000.0,Electronics
+Boat,1000.0,Electronic item
+Pizza,2000.0,Food item
+Burger,300.0,Food item
