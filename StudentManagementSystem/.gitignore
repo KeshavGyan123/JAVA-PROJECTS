@@ -1,0 +1,14 @@
+# Compiled Java files
+*.class
+
+# VS Code settings
+.vscode/
+
+# Log files
+*.log
+
+# Windows system files
+Thumbs.db
+
+# macOS system files
+.DS_Store
